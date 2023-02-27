@@ -1,0 +1,33 @@
+<html>
+  <head>
+    <title>Href Attribute Example</title>
+  </head>
+  <body>
+    <h1>Href Attribute Example</h1>
+    <p>
+      <a href="https://www.freecodecamp.org/contribute/">The freeCodeCamp Contribution Page</a> shows you how and where you can contribute to freeCodeCamp's community and growth.
+    </p>
+  </body>
+</html>
+
+<a href="#">This is a dead link</a>
+<a href="https://www.freecodecamp.org">This is a live link to freeCodeCamp</a>
+<a href="https://html.com/attributes/a-href/">more with a href attribute</a>
+
+<a href="#">
+  <img itemprop="image" style="height: 90px;" src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back.">
+</a>
+<a href="https://www.freecodecamp.org/" target="_blank">freeCodeCamp</a>
+<a href="https://www.freecodecamp.org/" target="_self">freeCodeCamp</a>
+<a href="https://www.freecodecamp.org/" target="_self">freeCodeCamp</a>
+<a href="https://www.freecodecamp.org/" target="framename">freeCodeCamp</a>
+<a href="https://www.freecodecamp.org/" target="framename">freeCodeCamp</a>
+
+<html>
+  <head>
+    <title>Body bgcolor Attribute example</title>
+  </head>
+  <body bgcolor="#afafaf">
+    <h1>This webpage has colored background.</h1>
+  </body>
+</html>
